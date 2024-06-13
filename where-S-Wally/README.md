@@ -1,8 +1,8 @@
 # Where-S-Wally?
 
-Play a 5 level game - looking for Wally.
+Play a 5 level game - Finding Wally.
 
-Wally is wearing a red and white bobble hat and matching striped shirt.
+Wally is wearing a red and white bobble hat and a matching striped shirt.
 
 ## How to play-
 
