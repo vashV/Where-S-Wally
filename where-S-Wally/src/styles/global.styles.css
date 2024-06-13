@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css?family=Expletus+Sans|Raleway|Griffy|Yanone+Kaffeesatz:400,700");
+
+html,
+body {
+  height: 100%;
+}
+/* html {
+  font-size: 10px;
+} */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  background: -moz-linear-gradient(
+    right,
+    #fcfcfc 0%,
+    #d2b48c 100%
+  ); /* FF3.6-15 */
+  background: -webkit-linear-gradient(
+    right,
+    #fcfcfc 0%,
+    #d2b48c 100%
+  ); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(
+    to left,
+    #fcfcfc 0%,
+    #d2b48c 100%
+  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /*border:aqua dashed 3px; */
+  /*color:papayawhip*/
+}
+
+.circle {
+  width: 4rem;
+  height: 4rem;
+  background-color: rgba(0, 0, 0, 0);
+  border: 2px solid black;
+  border-radius: 50%;
+}
