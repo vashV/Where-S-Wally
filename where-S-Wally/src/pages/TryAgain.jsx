@@ -23,7 +23,7 @@ const TryAgain = () => {
       </Image>
       <P>
         <h2>Sorry, Better luck next time!</h2>
-        <h3>would you like to try again?</h3>
+        <h3>Would you like to try again?</h3>
       </P>
       <Div>
         <Button onClick={handleTryAgain}> Yes </Button>

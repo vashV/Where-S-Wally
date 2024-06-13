@@ -12,13 +12,13 @@ const Home = () => {
         <img src={loggo} alt="logo" />
       </Left>
       <Right>
-        <h1>Hi i'm Wally!</h1>
-        <h2>can you find me?</h2>
-        <h3>If you do, just click on me!</h3>
+        <h1>Hi! I'm Wally!</h1>
+        <h2>Can you find me?</h2>
+        <h3>If you do, Just click on me!</h3>
         <Button onClick={() => navigate1("/Step1")}> Start Playing </Button>
-        <p>I'll give you 3 tries </p>
-        <p>and </p>
-        <p>a count down of 2 minutes</p>
+        <p>I'll give you 3 Tries </p>
+        <p>And </p>
+        <p>A Count down of 2 minutes</p>
         <h2>Good luck!</h2>
       </Right>
     </Container>

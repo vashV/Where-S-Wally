@@ -17,7 +17,7 @@ const Again = () => {
       </Image>
       <P>
         <h2>You found me!!! Nice job!</h2>
-        <h3>would you like to try again?</h3>
+        <h3>Would you like to try again?</h3>
       </P>
       <Div>
         <Button onClick={() => navigate("/")}> Yes </Button>
