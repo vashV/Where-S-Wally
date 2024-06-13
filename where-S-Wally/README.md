@@ -1,4 +1,4 @@
-# where-S-Wally?
+# Where-S-Wally?
 
 Play a 5 level game - looking for Wally.
 
